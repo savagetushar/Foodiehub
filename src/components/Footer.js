@@ -4,9 +4,9 @@ const Footer = () => {
     return (
         <footer className="shadow-lg p-3 text-center">
             <p>
-                Made With
+                Made 
                 <span> 👉 </span>
-                by Adil Nawaz
+                by Tushar Kumar
             </p>
        <SocialMedia/>
         </footer>
